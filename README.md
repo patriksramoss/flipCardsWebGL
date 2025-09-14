@@ -3,7 +3,6 @@
 This is a simple interactive 3D card demo built with **Three.js**. On each page load, five random playing cards are displayed on a table. Users can:
 
 - **Click a card** to flip it (front ↔ back).
-- **Drag cards** around the table.
 - **Hover over a card** to slightly lift it.
 - **Flip all cards** at once with a button.
 
